@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Client meeting",
+        "text": "Discuss workflow",
+        "id": "40acaee5-e3ab-485d-8f21-faf0e1fe31d1"
+    },
+    {
+        "title": "call Calie",
+        "text": "Test",
+        "id": "62eae02c-f7ba-49a9-ba5f-957cd03cc6f3"
+    },
+    {
+        "title": "Coffee Break",
+        "text": "Break time",
+        "id": "d10265f0-5089-4537-a57e-102827fa86dd"
+    },
+    {
+        "title": "Exercise break",
+        "text": "Yoga break",
+        "id": "ae4affdb-c510-4cc2-bd2d-164470060d70"
+    },
+    {
+        "title": "Call MOM",
+        "text": "Call MOM",
+        "id": "f51ace03-9ccc-4eb1-bf6a-e937f74ad180"
+    }
+]
